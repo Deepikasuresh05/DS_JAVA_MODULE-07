@@ -20,11 +20,7 @@ To write a Java program to:
 
 ## Program:
 ```java
-/*
-Program to perform Right Rotation on LinkedList
-Developed by: Kishore B
-RegisterNumber: 212224100032
-*/
+
 import java.util.Scanner;
 
 class Node {
